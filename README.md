@@ -27,3 +27,4 @@ When I have time someday I’ll finish the UI and explanations, then package it 
 ## known issues ##
 - Some operating systems may not have a suitable font, so all text might appear as squares. Will fix someday...
 - Music has been disabled for better compatability. 
+- Game runs slowly on retina displays in MacOS. The fix is to right click on the pygame icon after the script has been run (will look like a snake) and select options>open in finder. This will show you the appropriate python unix executable. From there, right click on python, and select "get info". In the info window, select "run in low resolution". That should fix your issue. 
