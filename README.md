@@ -7,6 +7,8 @@ It should run like magic by using Pipenv. One should be able to run the game wit
 1. pipenv shell
 2. python main.py
 
+Please let me know if this does not work!!! 
+
 ## how to play ##
 I haven't implemented the explanation into the game yet… essentially you jump from zone to zone, building up a fleet. The goal is to destroy the enemy boss ship. It plays like a traditional RTS where you select ships with boxes, or by left clicking on them. Right clicking is a move order. Other commands are:
 - q puts ships into an autonomous fighting mode. You can still issue move/fire commands in this mode. 
