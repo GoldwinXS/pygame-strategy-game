@@ -25,5 +25,5 @@ Still needs work… obviously… some dev tools are still there
 When I have time someday I’ll finish the UI and explanations, then package it as a .app. That’s a little ways away though. 
 
 ## known issues ##
-Some operating systems may not have a suitable font, so all text might appear as squares. Will fix someday...
-
+- Some operating systems may not have a suitable font, so all text might appear as squares. Will fix someday...
+- Music has been disabled for better compatability. 
