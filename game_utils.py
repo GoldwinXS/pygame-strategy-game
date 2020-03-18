@@ -102,8 +102,9 @@ class Menus():
 
         all_fonts = pg.font.get_fonts()
         self.player_stats = None
-        if all_fonts.__contains__('perpetua'):
-            self.font = all_fonts[all_fonts.index('perpetua')]
+        if all_fonts.__contains__('helveticattc'):
+            self.font = all_fonts[all_fonts.index('helveticattc')]
+
         else:
             self.font = all_fonts[0]
 
@@ -1487,8 +1488,8 @@ class Game_UI():
         self.bottom_area_offset = self.GAME_HEIGHT / 6
         all_fonts = pg.font.get_fonts()
         self.player_stats = None
-        if all_fonts.__contains__('perpetua'):
-            self.font = all_fonts[all_fonts.index('perpetua')]
+        if all_fonts.__contains__('helveticattc'):
+            self.font = all_fonts[all_fonts.index('helveticattc')]
         else:
             self.font = all_fonts[0]
 
